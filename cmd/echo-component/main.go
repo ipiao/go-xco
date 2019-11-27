@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/sheenobu/go-xco"
+	"github.com/ipiao/go-xco"
 )
 
 var Name string
